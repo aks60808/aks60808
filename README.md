@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I'm Heng-Chuan Lin. Just call me Tommy :smile:.\
+I'm currently looking for a position where I can add value to my background :mortar_board: from both Chemistry and Information Technology :computer:.\
+I was a Data Scientist at Battery Company :battery: where I can apply both knowledge to help company grow its business:moneybag:.
+
+- :high_brightness:wrote some python scripts to automate the vvisualisationof test result :bar_chart: from raw data.
+- :high_brightness:develop machine-learning-driven approach to identify key features allow company to adapt it into metrics monitoring.
+- :high_brightness:architect a machine-lealearning-drivensiness solution to provide client the best charging stragety for fast charging and battery life cycle prediction.
+- :high_brightness:secure company's value stream from concept to the end-user.
+
+Throughout my previous experience, I worked with RD, Manufacting, Quality Control, Quality Assurance and Field Application Engineering team.\
+I really enjoy cross-functional collaboration and strongly believe that DevOps culture can strongly benefit the manufacturing industry.
+That's why with such passion, I've decided to learn DevOps culture and tools to help teams to wing :muscle:
