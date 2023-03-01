@@ -24,7 +24,7 @@ I was a Data Scientist at Battery Company :battery: where I can apply both knowl
 - :high_brightness:architect a machine-lealearning-drivensiness solution to provide client the best charging stragety for fast charging and battery life cycle prediction.
 - :high_brightness:secure company's value stream from concept to the end-user.
 
-Throughout my previous experience, I collaborated with RD, Manufacting, Quality Control, Quality Assurance and Field Application Engineering team to make sure production is up and smooth.\
+Throughout my previous experience, I collaborated with RD, manufacturing, Quality Control, Quality Assurance and Field Application Engineering team to make sure production is up and smooth.\
 I really enjoy cross-functional collaboration and strongly believe that DevOps culture can strongly benefit the manufacturing industry.
 That's why with such passion, I've decided to learn DevOps culture and tools to help teams to wing :muscle:
 
