@@ -24,7 +24,7 @@ I'm Heng-Chuan Lin. Just call me Tommy 😄. I'm currently looking for a positi
 
 Throughout my previous experience, I collaborated with RD, manufacturing, Quality Control, Quality Assurance and Field Application Engineering teams to ensure production is up and smooth.\ 
 I really enjoy cross-functional collaboration and strongly believe that DevOps culture can strongly benefit the manufacturing industry. \
-That's why with such passion, I've decided to learn DevOps culture and tools to help teams to wing :muscle:
+That's why with such passion, I've decided to learn DevOps culture and tools to help teams to shine :muscle:
 
 :office:[My linkedin](https://www.linkedin.com/in/hengchuantommylin/)\
 :book:[My Blog](https://dev.to/tommyhenchuanlin)
