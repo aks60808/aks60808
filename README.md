@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Heng-Chuan Lin. Just call me Tommy 😄. I'm currently looking for a position where I can add value to my background 🎓 in both Chemistry and Information Technology 💻. I was a Data Scientist at a Battery Company 🔋 where I can apply both knowledges to help the company grow its business💰.
+I'm Heng-Chuan Lin. Just call me Tommy 😄. I'm currently looking for a position where I can add value to with my background 🎓 in both Chemistry and Information Technology 💻. I was a Data Scientist at a Battery Company 🔋 where I can apply both knowledges to help the company grow its business💰.
 
 - :high_brightness:wrote some python scripts to automate the vvisualisationof test result :bar_chart: from raw data.
 - :high_brightness:develop machine-learning-driven approach to identify key features allow company to adapt it into metrics monitoring.
